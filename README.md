@@ -19,8 +19,6 @@ Even, I motivated my wife to start her cooking YouTube channel. She got 300+ vid
 
 Currently, I got associated with eCommerce B2B startup and helping it to grow by removing technical, architectural, and recruitment obstacles. In 2019, I joined alone but now have build 20+ members team in all departments like Develoment, BA, QA, UI/UX. Next target is to have Mobile App Team.
 
-I’m also helping foreign companies to build their presence in India. If you wants to open your own development centre in India but don’t know how to start reach out to me. Despite of all challenges like different time zone, languages, cultures. I can build complete remote team for you. I’ll help you in all phases from recruitment to payroll, team building to project planning, development to deployment, maintenance to supports. So you should be focusing on where you should - sales and growth.
-
 <!--
 **durgesh-sahani/durgesh-sahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
