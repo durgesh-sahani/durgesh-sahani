@@ -6,7 +6,7 @@ I love to learn and understand new technologies and create a video tutorials for
 
 I remember how I participated in my college to teach my juniors on occasion of Teachers Day, and own the 1st prize which developed my interest in teaching. After that I started my own Institute “TREE INSTITUTE OF SOFTWARE TRAINING AND DEVELOPMENT” and run the same successfully for two years.
 
-Then I was thinking to switch into development and moved to PUNE, soon become a part of MNC and gain some practical knowledge of software development but still I was missing teaching so started my YouTube channel learnWebCoding which got 20K+ subscribers now.
+Then I was thinking to switch into development and moved to PUNE, soon become a part of MNC and gain some practical knowledge of software development but still I was missing teaching so started my YouTube channel learnWebCoding which got 21K+ subscribers now.
 
 Recently, I was also got Alumni Meet invite from my college as a chief guest to mentor junior students.
 https://youtu.be/8J5WMA-x2NQ
@@ -15,7 +15,7 @@ Pandemic changed my mind about education system, I designed kids E-Learning plat
 
 My daughter learn a lot from it everything is available in a single place and in multi languages. Hence we don't need to worry about her revisions, BaalVidya can do that for us. Finally we decided to do homeschooling for her and so far this is going really well.
 
-Even, I motivated my wife to start her cooking YouTube channel. She got 300+ videos and 8K+ subscribers and started earning through Google Adsense. Check it out her amazing testy recipes https://youtube.com/ChatpatiRasoee
+Even, I motivated my wife to start her cooking YouTube channel. She got 300+ videos and 10K+ subscribers and started earning through Google Adsense. Check it out her amazing testy recipes https://youtube.com/ChatpatiRasoee
 
 Currently, I got associated with eCommerce B2B startup and helping it to grow by removing technical, architectural, and recruitment obstacles. In 2019, I joined alone but now have build 20+ members team in all departments like Develoment, BA, QA, UI/UX. Next target is to have Mobile App Team.
 
